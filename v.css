@@ -1,0 +1,18 @@
+span{
+border:5px dashed #20bcd5;}
+
+body{ font-family: 'handlee',cursive; font-size: 13pt; background-color: #efefef; padding:10px;}
+
+.section{ background-color: #fff ; padding: 15px; margin-bottom: 10px; border-radius: 10px; height:500px;font-size:30px;}
+
+#h{ background-image: url("https://www.sololearn.com/uploads/header.jpg"); background-size:cover; text-align:center;}
+
+.img-circle{ border: 5px solid white; border-radius: 50%;}
+
+h1{ font-size: 15pt; color: #20bcd5; text-align:center; padding:18px 0 18px 0; margin: 0 0 10px 0; font-size:50px;}
+
+#cen{text-align:center;}
+
+.intro{ font-family:CURSIVE; font-size:35px; background-image:url("https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/11350403_917241605001382_7466535181139178908_n.png?oh=ed15fedc3b4aed6bf1825e48c38ed1d7&oe=5A64B8AA");background-position:right; width:1000px; border-radius:10px; color:black; text-align:center; border:5px solid blue; text-shadow:5px 5px lightgray;}
+
+#normal{ text-align:center;}
